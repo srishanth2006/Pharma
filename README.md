@@ -453,8 +453,9 @@ contact.html
 </html>
 ```
 ## OUTPUT:
-c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-05-13 095833.png c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-05-13 095702.png c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-05-13 095803.png c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-05-13 095823.png
-
-
+![alt text](<sri/Screenshot 2024-05-13 095702.png>)
+![alt text](<sri/Screenshot 2024-05-13 095803.png>)
+![alt text](<sri/Screenshot 2024-05-13 095823.png>)
+![alt text](<sri/Screenshot 2024-05-13 095833.png>)
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
