@@ -1,5 +1,6 @@
 # Project Responsive Web Design using Bootstrap
-## Date:
+## Date:13/05/24
+
 
 ## AIM:
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
@@ -450,6 +451,7 @@ contact.html
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
+```
 ## OUTPUT:
 c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-05-13 095833.png c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-05-13 095702.png c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-05-13 095803.png c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-05-13 095823.png
 
